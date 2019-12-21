@@ -34,3 +34,8 @@ while i < len(llaves):      #Devuelve la nota de cada asignatura
 
 print(" ")
 print("Tu media del curso es " + str(media/len(valores)))        #Devuelve la nota media del curso 
+xyz = 0
+
+while xyz == 0:
+    x = input("Pulsa enter para salir:  ")
+    xyz = 1
